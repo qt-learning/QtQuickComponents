@@ -1,1 +1,25 @@
-# QtQuickComponents
+# Qt Quick And Custom Components
+
+This is the repo for the Qt Quick and Custom Components course on Qt Academy.
+
+## Getting Started
+
+The files provided are the demo apps created during the course. They provide a reference for the workflows covered in the course section.
+
+## Instructions
+
+To get started with this project, you will need to have Qt installed from the qt.io website. We Recommend using the QtCreator IDE in order to follow along with the content in the videos.
+
+QtQuickAndCustomComponents_Section2: Example to demonstrate common Qt Quick object Types (Window, Item, Rectangle, Text and Image). Tested with Qt 6.7.2 macOS & 6.8.1 MinGw 64-Bit on Windows 10
+
+QtQuickAndCustomComponents_Section3: Example to demonstrate interactions within QML types (mouse interaction, keyboard interaction, touch interaction, input handlers). Tested with Qt 6.7.2 macOS & 6.8.1 MinGw 64-Bit on Windows 10
+
+QtQuickAndCustomComponents_Section4: Example to demonstrate defining custom QML types. Tested with Qt 6.7.2 macOS & 6.8.1 MinGw 64-Bit on Windows 10
+
+## Resouces
+
+If you need additional help, the following resources may be helpful:
+
+- Qt Documentation: https://doc.qt.io
+- Qt Forum: https://forum.qt.io
+- Qt Academy: https://qt.io/academy
