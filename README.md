@@ -16,7 +16,7 @@ QtQuickAndCustomComponents_Section3: Example to demonstrate interactions within 
 
 QtQuickAndCustomComponents_Section4: Example to demonstrate defining custom QML types. Tested with Qt 6.7.2 macOS & 6.8.1 MinGw 64-Bit on Windows 10
 
-## Resouces
+## Resources
 
 If you need additional help, the following resources may be helpful:
 
