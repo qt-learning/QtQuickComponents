@@ -29,6 +29,7 @@ If you need additional help, the following resources may be helpful:
 ```
 Copyright (C) 2026 Qt Group.
 SPDX-License-Identifier: LicenseRef-Qt-Commercial OR GPL-3.0-only
+Qt and respective logos are trademarks of The Qt Group.
 ```
 
 This is a Qt Quick and Custom Components learning project for demonstrating how to use Qt Quick and create custom components in a Qt based application.
@@ -40,5 +41,6 @@ If you, your employer, or the legal entity you act on behalf of hold commercial 
 This software package may provide links or access to third party libraries or code (collectively "Third-Party Software") to implement various functions. Use or distribution of Third-Party Software is discretionary and in all respects subject to applicable license terms of applicable third-party right holders.
 
 ### Third-Party Attributions
+
 
 - `CuteCat.jpg` used in [QtQuickAndCustomComponents_Section4](./QtQuickAndCustomComponents_Section4/CuteCat.jpg) is a photo by [Edgar](https://unsplash.com/@e_d_g_a_r) on [Unsplash](https://unsplash.com/photos/brown-tabby-kitten-sitting-on-floor-nKC772R_qog) and licensed under [Unsplash License](https://unsplash.com/license).
