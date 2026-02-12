@@ -16,10 +16,31 @@ QtQuickAndCustomComponents_Section3: Example to demonstrate interactions within 
 
 QtQuickAndCustomComponents_Section4: Example to demonstrate defining custom QML types. Tested with Qt 6.7.2 macOS & 6.8.1 MinGw 64-Bit on Windows 10
 
-## Resouces
+## Resources
 
 If you need additional help, the following resources may be helpful:
 
 - Qt Documentation: https://doc.qt.io
 - Qt Forum: https://forum.qt.io
 - Qt Academy: https://qt.io/academy
+
+## Licensing Information
+
+```
+Copyright (C) 2026 Qt Group.
+SPDX-License-Identifier: LicenseRef-Qt-Commercial OR GPL-3.0-only
+Qt and respective logos are trademarks of The Qt Group.
+```
+
+This is a Qt Quick and Custom Components learning project for demonstrating how to use Qt Quick and create custom components in a Qt based application.
+
+### Terms and Conditions
+
+If you, your employer, or the legal entity you act on behalf of hold commercial license(s) with a Qt Group entity, this software package constitutes Pre-Release Code under the Qt License/Frame Agreement governing those licenses, and that agreement's terms and conditions govern your access and use of this software package.
+
+This software package may provide links or access to third party libraries or code (collectively "Third-Party Software") to implement various functions. Use or distribution of Third-Party Software is discretionary and in all respects subject to applicable license terms of applicable third-party right holders.
+
+### Third-Party Attributions
+
+
+- `CuteCat.jpg` used in [QtQuickAndCustomComponents_Section4](./QtQuickAndCustomComponents_Section4/CuteCat.jpg) is a photo by [Edgar](https://unsplash.com/@e_d_g_a_r) on [Unsplash](https://unsplash.com/photos/brown-tabby-kitten-sitting-on-floor-nKC772R_qog) and licensed under [Unsplash License](https://unsplash.com/license).
