@@ -2,6 +2,22 @@
 
 This is the repo for the Qt Quick and Custom Components course on Qt Academy.
 
+> Get the full learning experience by enrolling in the course on [Qt Academy](https://www.qt.io/academy/course-catalog?q=qt+quick#qt-quick-and-custom-components)
+
+> You can also find the course playlist on the [Qt YouTube channel](https://www.youtube.com/playlist?list=PLizsthdRd0YxqMcd7K7ycLQ4uz7C8npoM)
+
+## 🎯 What You'll Learn
+
+- **Using common Qt Quick object types** like Item, Rectangle, Text, and Image.
+
+- **Handling user interactions** through mouse, keyboard, and touch inputs.
+
+- **Creating custom QML components** for reusability.
+
+⭐ Skill Level: Beginner
+
+⏱️ Time to Complete: 65 minutes
+
 ## Getting Started
 
 The files provided are the demo apps created during the course. They provide a reference for the workflows covered in the course section.
@@ -44,3 +60,4 @@ This software package may provide links or access to third party libraries or co
 
 
 - `CuteCat.jpg` used in [QtQuickAndCustomComponents_Section4](./QtQuickAndCustomComponents_Section4/CuteCat.jpg) is a photo by [Edgar](https://unsplash.com/@e_d_g_a_r) on [Unsplash](https://unsplash.com/photos/brown-tabby-kitten-sitting-on-floor-nKC772R_qog) and licensed under [Unsplash License](https://unsplash.com/license).
+
